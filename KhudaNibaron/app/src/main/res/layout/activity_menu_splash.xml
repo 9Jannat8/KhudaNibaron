@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/menu_splash_img"
+    android:gravity="right|center"
+    android:orientation="vertical"
+    tools:context=".MenuSplashActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Let's see the Menu !!!"
+        android:textColor="@color/yellow"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:layout_marginRight="20dp"
+        />
+
+    <ProgressBar
+        android:id="@+id/progressBarId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:indeterminateTint="@color/yellow"
+        android:visibility="invisible"/>
+
+</LinearLayout>

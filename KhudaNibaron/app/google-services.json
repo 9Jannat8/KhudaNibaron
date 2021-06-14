@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888768608295",
+    "project_id": "khudanibaron-24399",
+    "storage_bucket": "khudanibaron-24399.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888768608295:android:3eb07d5e7aaea11a303602",
+        "android_client_info": {
+          "package_name": "com.example.khudanibaron"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888768608295-dqbv5pvr390mpq09cmfm3qpaqfee4hja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtnWDSP0C7fd0fTqXfOd4n5gR9nKE0W9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888768608295-dqbv5pvr390mpq09cmfm3qpaqfee4hja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
